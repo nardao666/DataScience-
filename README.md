@@ -1,4 +1,4 @@
-# DataScience-
+# DataScience
 
 Maratona 2.0 do <a href="https://cienciadosdados.com/">Ciência de Dados</a>
 
@@ -6,12 +6,12 @@ Maquina Preditiva utilizando SVM
 
   - Nesse caso prático, nós precisamos construir um Sistema de classificação de Risco do cliente para aprovação de empréstimos.
   - Usaremos a base de dados "risco.csv" originada por meio dos dados da UCI Machine Learning. (Nesse portal a gente consegue 
-        realizar o download de vários datasets reais de empresas de todo o Mundo. https://archive.ics.uci.edu/ml/index.php )
+        realizar o download de vários datasets reais de empresas de todo o Mundo. <a href="https://archive.ics.uci.edu/ml/index.php">link</a> )
 
 Deploy
 
 1° Realizar o download da ferramenta "Visual Studio Code" no link abaixo:
-  - https://code.visualstudio.com/
+  - <a href="https://code.visualstudio.com/">VS Code</a>
 
 2° Instalar a ferramenta: Clicar em "next" e "finish" (simples assim...)
 
@@ -36,7 +36,7 @@ Deploy
   - pip install streamlit + tecla enter
 
 9° Instalar o Anaconda
-  - https://www.anaconda.com/products/individual
+  - <a href="https://www.anaconda.com/products/individual">Anaconda</a>
 
 10° Executar o comando de abertura (no terminal do VS Code), do nosso LINDO sistema:
   - streamlit run app_risco.py
